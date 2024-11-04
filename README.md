@@ -1,2 +1,3 @@
 # 2DShooterSpaceShip
 This is a 2D shooter space ship game. It's a similar game to the game i uploaded before but with better mechanics and visuals. Our spaceship can shoot at the enemy space ships but we also have to shoot at the meteroids which occurs randomly. The meteroids have life bars. If we keep shooting at them, they'll explode when the life bar hits "0". The enemy space ships does not have a life bar, if we shoot at them one time they'll explode. Our character can move around with "WASD" and with arrow keys. We can press the keys all together in that case the asset changes. 
+This project is made with C# using Unity. The assets are from asset store.
